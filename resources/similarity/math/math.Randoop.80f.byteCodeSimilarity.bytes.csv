@@ -1,0 +1,8 @@
+:,RegressionTest0::test1,RegressionTest0::test2,RegressionTest0::test3,RegressionTest0::test4,RegressionTest0::test5,RegressionTest0::test6,RegressionTest0::test7,
+RegressionTest0::test1 ,0,131,214,85,85,158,21,
+RegressionTest0::test2 ,131,0,111,65,65,31,152,
+RegressionTest0::test3 ,214,111,0,137,137,107,235,
+RegressionTest0::test4 ,85,65,137,0,0,94,101,
+RegressionTest0::test5 ,85,65,137,0,0,94,101,
+RegressionTest0::test6 ,158,31,107,94,94,0,178,
+RegressionTest0::test7 ,21,152,235,101,101,178,0,

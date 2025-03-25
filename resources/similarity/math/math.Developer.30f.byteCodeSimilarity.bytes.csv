@@ -1,0 +1,4 @@
+:,MannWhitneyUTestTest::testBigDataSet,MannWhitneyUTestTest::testMannWhitneyUInputValidation,MannWhitneyUTestTest::testMannWhitneyUSimple,
+MannWhitneyUTestTest::testBigDataSet ,0,37,28,
+MannWhitneyUTestTest::testMannWhitneyUInputValidation ,37,0,31,
+MannWhitneyUTestTest::testMannWhitneyUSimple ,28,31,0,

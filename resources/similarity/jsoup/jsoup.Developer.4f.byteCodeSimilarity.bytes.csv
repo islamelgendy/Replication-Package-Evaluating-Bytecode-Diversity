@@ -1,0 +1,4 @@
+:,EntitiesTest::caseSensitive,EntitiesTest::escape,EntitiesTest::unescape,
+EntitiesTest::caseSensitive ,0,0,0,
+EntitiesTest::escape ,0,0,0,
+EntitiesTest::unescape ,0,0,0,

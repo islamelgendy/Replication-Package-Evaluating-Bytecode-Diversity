@@ -1,0 +1,7 @@
+:,BrentSolverTest::testBadEndpoints,BrentSolverTest::testDeprecated,BrentSolverTest::testInitialGuess,BrentSolverTest::testQuinticZero,BrentSolverTest::testRootEndpoints,BrentSolverTest::testSinZero,
+BrentSolverTest::testBadEndpoints ,0,16,18,108,6,16,
+BrentSolverTest::testDeprecated ,16,0,14,95,18,0,
+BrentSolverTest::testInitialGuess ,18,14,0,93,21,14,
+BrentSolverTest::testQuinticZero ,108,95,93,0,111,95,
+BrentSolverTest::testRootEndpoints ,6,18,21,111,0,18,
+BrentSolverTest::testSinZero ,16,0,14,95,18,0,

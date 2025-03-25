@@ -1,0 +1,6 @@
+:,LookupTranslator_ESTest::test0,LookupTranslator_ESTest::test1,LookupTranslator_ESTest::test2,LookupTranslator_ESTest::test3,LookupTranslator_ESTest::test4,
+LookupTranslator_ESTest::test0 ,0,17,17,14,16,
+LookupTranslator_ESTest::test1 ,17,0,8,3,6,
+LookupTranslator_ESTest::test2 ,17,8,0,8,9,
+LookupTranslator_ESTest::test3 ,14,3,8,0,5,
+LookupTranslator_ESTest::test4 ,16,6,9,5,0,

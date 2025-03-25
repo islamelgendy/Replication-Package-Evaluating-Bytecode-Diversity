@@ -1,0 +1,7 @@
+:,CharSequenceTranslator_ESTest::test0,CharSequenceTranslator_ESTest::test1,CharSequenceTranslator_ESTest::test2,CharSequenceTranslator_ESTest::test3,CharSequenceTranslator_ESTest::test4,CharSequenceTranslator_ESTest::test5,
+CharSequenceTranslator_ESTest::test0 ,0,4,4,1,4,4,
+CharSequenceTranslator_ESTest::test1 ,4,0,1,5,2,1,
+CharSequenceTranslator_ESTest::test2 ,4,1,0,4,1,1,
+CharSequenceTranslator_ESTest::test3 ,1,5,4,0,4,5,
+CharSequenceTranslator_ESTest::test4 ,4,2,1,4,0,2,
+CharSequenceTranslator_ESTest::test5 ,4,1,1,5,2,0,

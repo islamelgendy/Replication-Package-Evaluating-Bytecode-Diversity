@@ -1,0 +1,12 @@
+: , RegressionTest0::test01 , RegressionTest0::test02 , RegressionTest0::test03 , RegressionTest0::test04 , RegressionTest0::test05 , RegressionTest0::test06 , RegressionTest0::test07 , RegressionTest0::test08 , RegressionTest0::test09 , RegressionTest0::test10 , RegressionTest0::test11
+RegressionTest0::test01 , 0 , 2426 , 1105 , 753 , 1128 , 6633 , 2717 , 919 , 1229 , 3775 , 1643
+RegressionTest0::test02 , 2426 , 0 , 1347 , 1814 , 1579 , 4352 , 1148 , 1820 , 1816 , 2209 , 1756
+RegressionTest0::test03 , 1105 , 1347 , 0 , 603 , 608 , 5565 , 1645 , 771 , 993 , 2833 , 1196
+RegressionTest0::test04 , 753 , 1814 , 603 , 0 , 797 , 5965 , 2097 , 492 , 792 , 3179 , 1117
+RegressionTest0::test05 , 1128 , 1579 , 608 , 797 , 0 , 5687 , 1862 , 629 , 1027 , 2983 , 1185
+RegressionTest0::test06 , 6633 , 4352 , 5565 , 5965 , 5687 , 0 , 4006 , 5932 , 5766 , 3721 , 5510
+RegressionTest0::test07 , 2717 , 1148 , 1645 , 2097 , 1862 , 4006 , 0 , 2119 , 2031 , 2085 , 1898
+RegressionTest0::test08 , 919 , 1820 , 771 , 492 , 629 , 5932 , 2119 , 0 , 825 , 3119 , 1127
+RegressionTest0::test09 , 1229 , 1816 , 993 , 792 , 1027 , 5766 , 2031 , 825 , 0 , 2650 , 448
+RegressionTest0::test10 , 3775 , 2209 , 2833 , 3179 , 2983 , 3721 , 2085 , 3119 , 2650 , 0 , 2307
+RegressionTest0::test11 , 1643 , 1756 , 1196 , 1117 , 1185 , 5510 , 1898 , 1127 , 448 , 2307 , 0

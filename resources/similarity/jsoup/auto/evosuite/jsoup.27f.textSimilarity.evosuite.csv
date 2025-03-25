@@ -1,0 +1,10 @@
+: , RegressionTest0::test01 , RegressionTest0::test02 , RegressionTest0::test03 , RegressionTest0::test04 , RegressionTest0::test05 , RegressionTest0::test06 , RegressionTest0::test07 , RegressionTest0::test08 , RegressionTest0::test09 , RegressionTest0::test10 , RegressionTest0::test11 , RegressionTest0::test12 , RegressionTest0::test13 , RegressionTest0::test14 , RegressionTest0::test15 , RegressionTest0::test16 , RegressionTest0::test17 , RegressionTest0::test18 , RegressionTest0::test19 , RegressionTest0::test20 , RegressionTest0::test21 , RegressionTest0::test22 , RegressionTest0::test23 , RegressionTest0::test24 , RegressionTest0::test25 , RegressionTest0::test26 , RegressionTest0::test27 , RegressionTest0::test28 , RegressionTest0::test29 , RegressionTest0::test30 , RegressionTest0::test31 , RegressionTest0::test32 , RegressionTest0::test33 , RegressionTest0::test34 , RegressionTest0::test35 , RegressionTest0::test36 , RegressionTest0::test37 , RegressionTest0::test38 , RegressionTest0::test39 , RegressionTest0::test40
+DataUtil_ESTest::test0 , 0 , 345 , 183 , 275 , 258 , 210 , 370 , 147 , 142
+DataUtil_ESTest::test1 , 345 , 0 , 338 , 254 , 163 , 342 , 242 , 410 , 403
+DataUtil_ESTest::test2 , 183 , 338 , 0 , 261 , 206 , 164 , 353 , 171 , 183
+DataUtil_ESTest::test3 , 275 , 254 , 261 , 0 , 153 , 265 , 217 , 284 , 284
+DataUtil_ESTest::test4 , 258 , 163 , 206 , 153 , 0 , 275 , 243 , 276 , 272
+DataUtil_ESTest::test5 , 210 , 342 , 164 , 265 , 275 , 0 , 356 , 206 , 205
+DataUtil_ESTest::test6 , 370 , 242 , 353 , 217 , 243 , 356 , 0 , 400 , 399
+DataUtil_ESTest::test7 , 147 , 410 , 171 , 284 , 276 , 206 , 400 , 0 , 22
+DataUtil_ESTest::test8 , 142 , 403 , 183 , 284 , 272 , 205 , 399 , 22 , 0

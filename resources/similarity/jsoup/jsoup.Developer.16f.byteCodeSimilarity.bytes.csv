@@ -1,0 +1,5 @@
+:,DocumentTypeTest::constructorValidationOkWithBlankPublicAndSystemIds,DocumentTypeTest::constructorValidationThrowsExceptionOnBlankName,DocumentTypeTest::constructorValidationThrowsExceptionOnNulls,DocumentTypeTest::outerHtmlGeneration,
+DocumentTypeTest::constructorValidationOkWithBlankPublicAndSystemIds ,0,0,2,3,
+DocumentTypeTest::constructorValidationThrowsExceptionOnBlankName ,0,0,2,3,
+DocumentTypeTest::constructorValidationThrowsExceptionOnNulls ,2,2,0,3,
+DocumentTypeTest::outerHtmlGeneration ,3,3,3,0,

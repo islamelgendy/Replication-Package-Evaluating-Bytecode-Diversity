@@ -1,0 +1,11 @@
+: , RegressionTest0::test01 , RegressionTest0::test02 , RegressionTest0::test03 , RegressionTest0::test04 , RegressionTest0::test05 , RegressionTest0::test06 , RegressionTest0::test07 , RegressionTest0::test08 , RegressionTest0::test09 , RegressionTest0::test10 , RegressionTest0::test11 , RegressionTest0::test12 , RegressionTest0::test13 , RegressionTest0::test14 , RegressionTest0::test15 , RegressionTest0::test16 , RegressionTest0::test17 , RegressionTest0::test18 , RegressionTest0::test19 , RegressionTest0::test20 , RegressionTest0::test21 , RegressionTest0::test22 , RegressionTest0::test23 , RegressionTest0::test24 , RegressionTest0::test25 , RegressionTest0::test26 , RegressionTest0::test27 , RegressionTest0::test28 , RegressionTest0::test29 , RegressionTest0::test30 , RegressionTest0::test31
+OpenMapRealMatrix_ESTest::test0 , 0 , 315 , 107 , 298 , 102 , 191 , 235 , 219 , 217 , 224
+OpenMapRealMatrix_ESTest::test1 , 315 , 0 , 229 , 266 , 318 , 312 , 136 , 135 , 138 , 135
+OpenMapRealMatrix_ESTest::test2 , 107 , 229 , 0 , 266 , 120 , 208 , 158 , 143 , 145 , 154
+OpenMapRealMatrix_ESTest::test3 , 298 , 266 , 266 , 0 , 298 , 297 , 256 , 255 , 253 , 255
+OpenMapRealMatrix_ESTest::test4 , 102 , 318 , 120 , 298 , 0 , 171 , 227 , 210 , 215 , 222
+OpenMapRealMatrix_ESTest::test5 , 191 , 312 , 208 , 297 , 171 , 0 , 219 , 224 , 230 , 226
+OpenMapRealMatrix_ESTest::test6 , 235 , 136 , 158 , 256 , 227 , 219 , 0 , 80 , 93 , 99
+OpenMapRealMatrix_ESTest::test7 , 219 , 135 , 143 , 255 , 210 , 224 , 80 , 0 , 45 , 32
+OpenMapRealMatrix_ESTest::test8 , 217 , 138 , 145 , 253 , 215 , 230 , 93 , 45 , 0 , 30
+OpenMapRealMatrix_ESTest::test9 , 224 , 135 , 154 , 255 , 222 , 226 , 99 , 32 , 30 , 0

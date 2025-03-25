@@ -1,0 +1,3 @@
+:,ArchiveStreamFactoryTest::aiffFilesAreNoTARs,ArchiveStreamFactoryTest::shortTextFilesAreNoTARs,
+ArchiveStreamFactoryTest::aiffFilesAreNoTARs ,0,3,
+ArchiveStreamFactoryTest::shortTextFilesAreNoTARs ,3,0,

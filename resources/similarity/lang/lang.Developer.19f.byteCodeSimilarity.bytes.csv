@@ -1,0 +1,4 @@
+:,NumericEntityUnescaperTest::testOutOfBounds,NumericEntityUnescaperTest::testSupplementaryUnescaping,NumericEntityUnescaperTest::testUnfinishedEntity,
+NumericEntityUnescaperTest::testOutOfBounds ,0,0,0,
+NumericEntityUnescaperTest::testSupplementaryUnescaping ,0,0,0,
+NumericEntityUnescaperTest::testUnfinishedEntity ,0,0,0,

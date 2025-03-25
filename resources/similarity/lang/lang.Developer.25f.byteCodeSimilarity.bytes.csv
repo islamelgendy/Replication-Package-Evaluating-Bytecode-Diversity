@@ -1,0 +1,4 @@
+:,EntityArraysTest::testConstructorExists,EntityArraysTest::testHTML40_EXTENDED_ESCAPE,EntityArraysTest::testISO8859_1_ESCAPE,
+EntityArraysTest::testConstructorExists ,0,17,26,
+EntityArraysTest::testHTML40_EXTENDED_ESCAPE ,17,0,11,
+EntityArraysTest::testISO8859_1_ESCAPE ,26,11,0,

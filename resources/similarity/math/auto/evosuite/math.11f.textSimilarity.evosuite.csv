@@ -1,0 +1,8 @@
+: , RegressionTest0::test01 , RegressionTest0::test02 , RegressionTest0::test03 , RegressionTest0::test04 , RegressionTest0::test05 , RegressionTest0::test06 , RegressionTest0::test07 , RegressionTest0::test08 , RegressionTest0::test09 , RegressionTest0::test10 , RegressionTest0::test11 , RegressionTest0::test12 , RegressionTest0::test13 , RegressionTest0::test14 , RegressionTest0::test15 , RegressionTest0::test16
+MultivariateNormalDistribution_ESTest::test0 , 0 , 258 , 226 , 6 , 164 , 212 , 237
+MultivariateNormalDistribution_ESTest::test1 , 258 , 0 , 147 , 260 , 314 , 256 , 104
+MultivariateNormalDistribution_ESTest::test2 , 226 , 147 , 0 , 228 , 297 , 291 , 86
+MultivariateNormalDistribution_ESTest::test3 , 6 , 260 , 228 , 0 , 166 , 215 , 239
+MultivariateNormalDistribution_ESTest::test4 , 164 , 314 , 297 , 166 , 0 , 264 , 303
+MultivariateNormalDistribution_ESTest::test5 , 212 , 256 , 291 , 215 , 264 , 0 , 277
+MultivariateNormalDistribution_ESTest::test6 , 237 , 104 , 86 , 239 , 303 , 277 , 0

@@ -1,0 +1,8 @@
+:,HarmonicFitterTest::test1PercentError,HarmonicFitterTest::testInitialGuess,HarmonicFitterTest::testMath844,HarmonicFitterTest::testNoError,HarmonicFitterTest::testPreconditions1,HarmonicFitterTest::testTinyVariationsData,HarmonicFitterTest::testUnsorted,
+HarmonicFitterTest::test1PercentError ,0,12,135,16,14,8,25,
+HarmonicFitterTest::testInitialGuess ,12,0,128,20,26,20,23,
+HarmonicFitterTest::testMath844 ,135,128,0,135,140,137,128,
+HarmonicFitterTest::testNoError ,16,20,135,0,25,21,26,
+HarmonicFitterTest::testPreconditions1 ,14,26,140,25,0,6,35,
+HarmonicFitterTest::testTinyVariationsData ,8,20,137,21,6,0,32,
+HarmonicFitterTest::testUnsorted ,25,23,128,26,35,32,0,

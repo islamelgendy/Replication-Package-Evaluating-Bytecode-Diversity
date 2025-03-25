@@ -1,0 +1,7 @@
+:,HarmonicFitter_ESTest::test0,HarmonicFitter_ESTest::test1,HarmonicFitter_ESTest::test2,HarmonicFitter_ESTest::test3,HarmonicFitter_ESTest::test4,HarmonicFitter_ESTest::test5,
+HarmonicFitter_ESTest::test0 ,0,4,25,27,27,17,
+HarmonicFitter_ESTest::test1 ,4,0,27,29,29,17,
+HarmonicFitter_ESTest::test2 ,25,27,0,8,8,18,
+HarmonicFitter_ESTest::test3 ,27,29,8,0,0,12,
+HarmonicFitter_ESTest::test4 ,27,29,8,0,0,12,
+HarmonicFitter_ESTest::test5 ,17,17,18,12,12,0,

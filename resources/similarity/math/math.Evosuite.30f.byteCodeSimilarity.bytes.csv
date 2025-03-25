@@ -1,0 +1,7 @@
+:,MannWhitneyUTest_ESTest::test0,MannWhitneyUTest_ESTest::test1,MannWhitneyUTest_ESTest::test2,MannWhitneyUTest_ESTest::test3,MannWhitneyUTest_ESTest::test4,MannWhitneyUTest_ESTest::test5,
+MannWhitneyUTest_ESTest::test0 ,0,4,3,5,4,7,
+MannWhitneyUTest_ESTest::test1 ,4,0,4,3,2,5,
+MannWhitneyUTest_ESTest::test2 ,3,4,0,3,3,6,
+MannWhitneyUTest_ESTest::test3 ,5,3,3,0,2,4,
+MannWhitneyUTest_ESTest::test4 ,4,2,3,2,0,3,
+MannWhitneyUTest_ESTest::test5 ,7,5,6,4,3,0,

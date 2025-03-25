@@ -1,0 +1,6 @@
+:,MultidimensionalCounterTest::testAccessors,MultidimensionalCounterTest::testIterationConsistency,MultidimensionalCounterTest::testIteratorPreconditions,MultidimensionalCounterTest::testMulti2UniConversion,MultidimensionalCounterTest::testPreconditions,
+MultidimensionalCounterTest::testAccessors ,0,465,16,17,78,
+MultidimensionalCounterTest::testIterationConsistency ,465,0,476,457,404,
+MultidimensionalCounterTest::testIteratorPreconditions ,16,476,0,20,78,
+MultidimensionalCounterTest::testMulti2UniConversion ,17,457,20,0,66,
+MultidimensionalCounterTest::testPreconditions ,78,404,78,66,0,

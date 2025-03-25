@@ -1,0 +1,5 @@
+:,DocumentType_ESTest::test0,DocumentType_ESTest::test1,DocumentType_ESTest::test2,DocumentType_ESTest::test3,
+DocumentType_ESTest::test0 ,0,5,4,4,
+DocumentType_ESTest::test1 ,5,0,3,4,
+DocumentType_ESTest::test2 ,4,3,0,2,
+DocumentType_ESTest::test3 ,4,4,2,0,
